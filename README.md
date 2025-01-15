@@ -42,7 +42,7 @@
     - Seasonal ARIMA Forecasting
     - Dynamic Regression
     - Dynamic Harmonic Regression
-    - **T**rigonometric Seasonality, **B**ox-Cox Transformation, *A**RMA Errors, **T**rend Components, **S**easonal Components (TBATS) Forecasting
+    - Trigonometric Seasonality, Box-Cox Transformation, ARMA Errors, Trend Components, Seasonal Components (TBATS) Forecasting
 
 **Note: The outline is not finished and will keep updating!**
 
