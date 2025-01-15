@@ -1,6 +1,6 @@
 # Time-Series-Analysis-and-Forecasting-with-R
 
-## Master PRACTICAL Time Series Analysis and Forecasting!
+## Master PRACTICAL Time Series Analysis and Forecasting (with very practical implementation in R)!
 
 <hr>
 
